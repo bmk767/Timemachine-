@@ -1,1 +1,1 @@
-MAking a trading AI bot # Timemachine-
+MAking a trading  AI bot # Timemachine-
